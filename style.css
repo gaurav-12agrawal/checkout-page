@@ -138,6 +138,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 }
 .btn{
     margin-left: 33%;
+    margin-bottom: 30px;
 }
 }
 @media screen and (max-width:440px){
